@@ -1,0 +1,3 @@
+BOT_TOKEN = 'YOUR_BOT_TOKEN'
+WEBHOOK_URL = 'WEBHOOK_URL'
+TELEGRAM_API_URL = f'https://api.telegram.org/bot{BOT_TOKEN}/'
